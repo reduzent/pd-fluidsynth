@@ -1,0 +1,9 @@
+#N canvas 169 106 432 242 10;
+#N canvas 25 106 420 300 META 0;
+#X text 10 70 LICENSE GPL-2;
+#X text 10 10 VERSION 0;
+#X text 10 30 AUTHOR Alexandre Torres Porres <porres@gmail.com>;
+#X text 10 50 NAME fluidsynth~;
+#X text 9 91 DESCRIPTION A soundfont player for Pure Data that uses
+fluidsynth;
+#X restore 20 20 pd META;
